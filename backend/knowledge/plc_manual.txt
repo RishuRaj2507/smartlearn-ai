@@ -1,0 +1,19 @@
+PLC Basics
+
+A Programmable Logic Controller (PLC) is an industrial computer used for automation.
+
+Key Components:
+- CPU
+- Power Supply
+- Input Modules
+- Output Modules
+
+Applications:
+- Manufacturing
+- Robotics
+- Process Control
+
+PLC Programming Languages:
+- Ladder Logic
+- Function Block Diagram
+- Structured Text
