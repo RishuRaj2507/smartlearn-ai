@@ -144,12 +144,12 @@ Powered by Large Language Models to provide:
                            │
 
           ┌─────────────────────────┐
-          │
-          │ Users
-          │ Courses
-          │ Enrollments
-          │ Certificates
-          │
+          │                         │
+          │ Users                   │ 
+          │ Courses                 │
+          │ Enrollments             │
+          │ Certificates            │
+          │                         │
           └─────────────────────────┘
 
                            │
@@ -239,7 +239,39 @@ SmartLearn-AI
 │
 └── README.md
 ```
+---
 
+# 📸 Application Screenshots
+
+## 🔐 Login Page
+
+![Login Page](docs/screenshots/loginpage.png)
+
+---
+
+## 📊 Employee Dashboard
+
+![Dashboard](docs/screenshots/Dashboard.png)
+
+---
+
+## 🎯 Personalized Learning Path
+
+![Learning Path](docs/screenshots/Learning_path.png)
+
+---
+
+## 👨‍💼 Admin Dashboard
+
+![Admin Dashboard](docs/screenshots/Admin.png)
+
+---
+
+## 🤖 AI Coach
+
+![AI Coach](docs/screenshots/Ai-Coach.png)
+
+---
 ---
 
 # ⚙ Installation
